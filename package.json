@@ -1,0 +1,13 @@
+{
+  "name": "read-stream",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ojisan-toybox/read-stream.git",
+  "author": "sadness_ojisan <sadness.ojisan@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^13.13.5",
+    "ts-node": "^8.10.1",
+    "typescript": "^3.8.3"
+  }
+}
